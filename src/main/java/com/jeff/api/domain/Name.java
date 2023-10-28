@@ -1,4 +1,4 @@
-package com.jeff.springrestclientexamples.api.domain;
+package com.jeff.api.domain;
 
 import lombok.Getter;
 import lombok.Setter;
